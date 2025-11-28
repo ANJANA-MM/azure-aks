@@ -1,7 +1,7 @@
 locals {
   # Supported environments and their subscription IDs
   subscription_ids = {
-    dev   = "4e84f9cf-127a-457b-89f9-1798c45861d7"
+    dev   = "00000000-0000-0000-0000-000000000001"
     stage = "00000000-0000-0000-0000-000000000002"
     prod  = "00000000-0000-0000-0000-000000000003"
   }
